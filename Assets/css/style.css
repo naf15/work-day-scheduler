@@ -73,3 +73,12 @@ textarea {
    display: flex;
    width: 100%;
  }
+
+ .time-stamp {
+   justify-content: center;
+   width: 100%
+ }
+
+ .time-stamp-container {
+   width: 80px;
+ }
